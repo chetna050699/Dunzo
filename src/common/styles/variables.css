@@ -1,0 +1,13 @@
+:root {
+  --white: #fff;
+  --header-shadow: rgb(0 0 0 / 8%) 0px 2px 12px;
+  --header-text: #0f1938;
+  --button-green: #00d290;
+  --light-green: #f7fdfa;
+  --dark-blue-bg-gradient: dark blue;
+  --white-transparent: #ffffff3d;
+  --green: #00b37a;
+  --text-light: #171e30;
+  --card-shadow:rgb(0 0 0 / 6%) 0px 4px 7px;
+  --text-grey: #6f7588;
+}

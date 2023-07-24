@@ -1,0 +1,113 @@
+.mainfold {
+  background-color: var(--light-green);
+}
+
+.top-strip {
+  background-color: rgb(16, 16, 62);
+}
+
+.strip-inner {
+  height: 44px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.inner-left {
+  align-items: center;
+}
+
+.paan-image-bg {
+  background-color: var(--white-transparent);
+  border-radius: 50%;
+  height: 24px;
+  width: 24px;
+  margin-top: 4px;
+  margin-right: 16px;
+}
+
+.paan-image {
+  margin-top: -10px;
+  margin-left: 2px;
+}
+
+.order-text {
+  color: var(--white);
+  font-weight: 600;
+}
+
+.strip-download {
+  color: var(--green);
+  font-weight: 600;
+}
+
+.mainfold-location {
+  padding: 32px 0px;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.mainfold-address-1 {
+  color: var(--green);
+}
+
+.mainfold-address-2 {
+  color: var(--text-light);
+  opacity: 0.45;
+}
+
+.location-arrow {
+  margin: 0px 4px;
+}
+
+.mainfold-info {
+  padding-bottom: 48px;
+}
+
+.mainfold-city {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.mainfold-description {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: var(--text-grey);
+}
+
+.order-cards {
+  padding-bottom: 24px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+.order-cards-container {
+  box-sizing: content-box;
+  width: 244px;
+  height: 180px;
+  border-radius: 8px;
+}
+
+.items-cards {
+  padding-bottom: 48px;
+}
+
+.items-card {
+  padding: 20px 16px 16px;
+  background-color: var(--white);
+  border-radius: 4px;
+  box-shadow: var(--card-shadow);
+  width: 158px;
+  height: 108px;
+  margin-right: 8px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.items-card-banner {
+  height: 40px;
+  width: 40px;
+  margin-bottom: 12px;
+}

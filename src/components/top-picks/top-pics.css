@@ -1,0 +1,22 @@
+.top-picks {
+  padding: 48px 0px;
+  
+}
+
+.top-picks-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.top-picks-cards {
+  padding-top: 32px;
+  justify-content: space-between;
+
+}
+
+.top-picks-card {
+  border-radius: 5px;
+  height: 164px;
+  width: 244px;
+}

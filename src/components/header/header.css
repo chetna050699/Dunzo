@@ -1,0 +1,52 @@
+.header-container {
+  position: sticky;
+  background-color: var(--white);
+  top: 0;
+  z-index: 99;
+  box-shadow: var(--header-shadow);
+}
+
+.header {
+  padding: 14px 0px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--header-text);
+}
+
+.header-left {
+  flex: 4;
+}
+
+.header-location {
+  flex: 1;
+  margin-left: 42px;
+  justify-content: flex-start;
+}
+
+.location-text {
+  margin: 0px 6px;
+}
+
+.header-right {
+  flex: 5;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-icon-text {
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.header-button {
+  padding: 8px 20px;
+  background-color: var(--button-green);
+  color: var(--white);
+  border-radius: 30px;
+}
+
+.hover-change:hover {
+  color: var(--button-green);
+}
